@@ -38,4 +38,6 @@ Mạch in riêng cho robot Micromouse, thiết kế bằng **Altium Designer**. 
 
 ## 3. Hình ảnh thực tế
 
-Xem ở [mục Hình ảnh xe](../README.md#5--hình-ảnh-xe) của README chính.
+| Mặt trên | Mặt dưới |
+|---|---|
+| ![Xe – mặt trên](images/car_top.jpg) | ![Xe – mặt dưới](images/car_bottom.jpg) |

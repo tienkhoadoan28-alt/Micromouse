@@ -84,7 +84,7 @@ Micromouse là cuộc thi robot trong đó một robot nhỏ phải **tự khám
 
 | Mặt trên | Mặt dưới (NICOLA_v1) |
 |---|---|
-| ![Xe – mặt trên](images/car_top.jpg) | ![Xe – mặt dưới](images/car_bottom.jpg) |
+| ![Xe – mặt trên](PCB_ver1/images/car_top.jpg) | ![Xe – mặt dưới](PCB_ver1/images/car_bottom.jpg) |
 
 ## 6. Cấu trúc repo
 
@@ -101,8 +101,8 @@ Micromouse/
 │   ├── README.md
 │   ├── schematic/schematic.png
 │   ├── pcb/                   ← layout + 3D mặt trên/dưới
-│   └── gerber/NICOLA_v1.rar   ← File gửi đi in PCB
-└── images/                    ← Ảnh xe thực tế
+│   ├── gerber/NICOLA_v1.rar   ← File gửi đi in PCB
+│   └── images/                ← Ảnh xe thực tế
 ```
 
 ## 7. Hướng dẫn nạp code
